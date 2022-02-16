@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: 03b56bac-d06a-8b3b-5053-a9ecf1f449f5
 ---
@@ -93,7 +96,7 @@ Rat barrel physiology\*
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[MATLAB® tutorials (PDF)]({{< baseurl >}}/resources/mit9_17s13_chapter7)
+[MATLAB{{< sup "®" >}} tutorials (PDF)]({{< baseurl >}}/resources/mit9_17s13_chapter7)
 {{< tdclose >}}
 {{< tdopen >}}
 Plotting, spike detection, movie creation and data analysis

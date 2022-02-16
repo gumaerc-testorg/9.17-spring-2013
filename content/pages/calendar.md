@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 20bcdfc5-fac7-865b-74f3-fc0dd42f3c23
 ---
@@ -254,7 +256,7 @@ In-class quiz 6
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="6" >}}
-**Section 7. MATLAB® Tutorials**
+**Section 7. MATLAB{{< sup "®" >}} Tutorials**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -283,9 +285,9 @@ In-class quiz 7
 {{< tdopen >}}
 
 
-MATLAB® project 0 due in recitation
+MATLAB{{< sup "®" >}} project 0 due in recitation
 
-MATLAB® project 1 due at end of lab
+MATLAB{{< sup "®" >}} project 1 due at end of lab
 
 
 {{< tdclose >}}
@@ -347,7 +349,7 @@ In-class quiz 9
 
 {{< tdclose >}}
 {{< tdopen >}}
-MATLAB® project 2 due in lab
+MATLAB{{< sup "®" >}} project 2 due in lab
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -395,7 +397,7 @@ In-class quiz 10
 
 {{< tdclose >}}
 {{< tdopen >}}
-MATLAB® project 3 due in recitation
+MATLAB{{< sup "®" >}} project 3 due in recitation
 {{< tdclose >}}
 
 {{< trclose >}}
