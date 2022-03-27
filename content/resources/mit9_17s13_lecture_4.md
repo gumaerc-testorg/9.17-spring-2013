@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: aef84f31-e0f8-a3bb-d683-801b7ba9111d
 resourcetype: Document
 title: '9.17 Lecture 4: Cockroach sensory processing'
 uid: a4d37439-6e84-a6f6-a8df-2001baedf3e2

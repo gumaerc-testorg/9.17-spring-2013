@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: aef84f31-e0f8-a3bb-d683-801b7ba9111d
 resourcetype: Document
 title: '9.17 Lecture 5: Frog compound action potential'
 uid: 83e80ab7-cef5-0b36-3a33-8de531e18dd8

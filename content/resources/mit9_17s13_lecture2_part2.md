@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: aef84f31-e0f8-a3bb-d683-801b7ba9111d
 resourcetype: Document
 title: '9.17 Lecture 2: Practical lecture part 2'
 uid: 244b073c-3108-c864-b407-350e0168326c

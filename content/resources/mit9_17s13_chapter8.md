@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 03b56bac-d06a-8b3b-5053-a9ecf1f449f5
 resourcetype: Document
 title: '9.17 Lab Protocol: Section 8 Fly vision project'
 uid: 679d5d6e-b2ee-be5f-e47b-6bb324b50663

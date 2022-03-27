@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 03b56bac-d06a-8b3b-5053-a9ecf1f449f5
 resourcetype: Document
 title: '9.17 Lab Protocol: Section 4 Introduction to neurophysiology'
 uid: 8a1c1bd9-239f-7c32-6752-19fd54242095

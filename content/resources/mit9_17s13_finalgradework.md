@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 4459900e-2bfb-2760-6870-1d79b917ae31
 resourcetype: Document
 title: '9.17 Syllabus: Final Grade Worksheet'
 uid: ae109f0f-d232-47fb-ddd2-0a4974738e54

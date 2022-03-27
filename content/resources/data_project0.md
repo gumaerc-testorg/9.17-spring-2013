@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3fdce980-3c3a-e731-cd4a-bab3ad1e9921
 resourcetype: Other
 title: data_project0.mat
 uid: 43225f42-b84f-9610-fba6-e37e4e5731f2

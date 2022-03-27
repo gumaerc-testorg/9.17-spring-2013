@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 03b56bac-d06a-8b3b-5053-a9ecf1f449f5
 resourcetype: Document
 title: '9.17 Lab Protocol: Section 5 The compound potential'
 uid: ca3e7279-7321-1308-bf41-4e655d3ad9f8

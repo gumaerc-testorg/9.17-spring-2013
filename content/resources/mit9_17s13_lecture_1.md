@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: aef84f31-e0f8-a3bb-d683-801b7ba9111d
 resourcetype: Document
 title: '9.17 Lecture 1: Class overview'
 uid: 98f0b47a-86f9-157a-4302-bbbfe827ca17

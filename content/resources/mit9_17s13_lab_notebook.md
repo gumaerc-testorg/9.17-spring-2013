@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3fdce980-3c3a-e731-cd4a-bab3ad1e9921
 resourcetype: Document
 title: '9.17 Assignments: Laboratory notebook'
 uid: 0f1bc770-dec1-7ac0-80fa-72ed86d639e1

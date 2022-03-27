@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 957265a5-58da-c2c2-0f48-c75cad68030d
 resourcetype: Document
 title: '9.17 Readings: Section 4 Recitation Questions'
 uid: 6de29917-70e6-50ac-9c3d-594d3db01d74

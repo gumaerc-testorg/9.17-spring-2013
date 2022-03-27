@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 957265a5-58da-c2c2-0f48-c75cad68030d
 resourcetype: Document
 title: '9.17 Readings: Section 2 Digital Oscilloscope Pre-Lab'
 uid: 8aea18e8-11e7-34a6-3fe6-8f68b71db803

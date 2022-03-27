@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: aef84f31-e0f8-a3bb-d683-801b7ba9111d
 resourcetype: Document
 title: '9.17 Lecture 9: Fly lab part 3'
 uid: 886f3108-a593-5d84-bd6b-f7da323db984

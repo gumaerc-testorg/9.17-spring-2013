@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3fdce980-3c3a-e731-cd4a-bab3ad1e9921
 resourcetype: Document
 title: '9.17 Assignments: Research report'
 uid: 4fa190be-54b9-880e-7a18-dce54e8b2d94

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3fdce980-3c3a-e731-cd4a-bab3ad1e9921
 resourcetype: Other
 title: fly_rubric.xlsx
 uid: 3f67ea45-bd2b-e6b7-fdf2-51c46b5273c7
