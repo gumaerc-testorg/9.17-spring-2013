@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 3fdce980-3c3a-e731-cd4a-bab3ad1e9921
 ---
@@ -47,7 +50,7 @@ SUPPORTING FILES
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-MATLAB® Project 0\*
+MATLAB{{< sup "®" >}} Project 0\*
 {{< tdclose >}}
 {{< tdopen >}}
 [Project 0 data (MAT)]({{< baseurl >}}/resources/data_project0)

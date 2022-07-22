@@ -1,10 +1,13 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: aef84f31-e0f8-a3bb-d683-801b7ba9111d
 ---
 
-This page includes lecture slides that introduce the principles for each week. No slides are available for lecture 7 on science writing and sections 7 and 9, which cover MATLAB® and human physiology. Please see the labs page for additional protocol notes.
+This page includes lecture slides that introduce the principles for each week. No slides are available for lecture 7 on science writing and sections 7 and 9, which cover MATLAB{{< sup "®" >}} and human physiology. Please see the labs page for additional protocol notes.
 
 {{< tableopen >}}
 {{< theadopen >}}

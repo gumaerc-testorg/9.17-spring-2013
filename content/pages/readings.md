@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 957265a5-58da-c2c2-0f48-c75cad68030d
 ---
@@ -156,7 +159,7 @@ Research report reading: Gopen, George D., and Judith A. Swan. "[The Science of 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**Section 7. MATLAB® Tutorials**
+**Section 7. MATLAB{{< sup "®" >}} Tutorials**
 {{< tdclose >}}
 
 {{< trclose >}}

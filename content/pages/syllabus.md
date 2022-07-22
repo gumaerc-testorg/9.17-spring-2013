@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4459900e-2bfb-2760-6870-1d79b917ae31
 ---
@@ -29,7 +31,7 @@ Contents
 {{< anchor "Course_Description" >}}{{< /anchor >}}Course Description
 --------------------------------------------------------------------
 
-Systems Neuroscience Laboratory consists of a series of laboratories designed to give students experience with basic techniques for conducting systems neuroscience research. It includes sessions on anatomical, neurophysiological, and data acquisition and analysis techniques, and the ways these techniques are used to study nervous system function. Training is provided in the art of scientific writing with feedback designed to improve writing skills. Assignments include weekly preparation for lab sessions, two major research reports and a series of basic computer programming tutorials (MATLAB®). The class involves the use of experimental animals. Enrollment is limited.
+Systems Neuroscience Laboratory consists of a series of laboratories designed to give students experience with basic techniques for conducting systems neuroscience research. It includes sessions on anatomical, neurophysiological, and data acquisition and analysis techniques, and the ways these techniques are used to study nervous system function. Training is provided in the art of scientific writing with feedback designed to improve writing skills. Assignments include weekly preparation for lab sessions, two major research reports and a series of basic computer programming tutorials (MATLAB{{< sup "®" >}}). The class involves the use of experimental animals. Enrollment is limited.
 
 {{< anchor "Primary_Course_Goals" >}}{{< /anchor >}}Primary Course Goals
 ------------------------------------------------------------------------
@@ -46,7 +48,7 @@ Systems Neuroscience Laboratory consists of a series of laboratories designed to
 *   Preparation of lab notebook each week
 *   Reading and understanding of each recitation paper (one per week)
 *   Preparation of (2) research reports in the form of short scientific papers
-*   Completion of MATLAB® tutorials
+*   Completion of MATLAB{{< sup "®" >}} tutorials
 *   Supplemental readings related to the lab session (optional)
 
 {{< anchor "Grading" >}}{{< /anchor >}}Grading
@@ -76,7 +78,7 @@ In-lab quizzes (no make-ups allowed)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-MATLAB® tutorials
+MATLAB{{< sup "®" >}} tutorials
 {{< tdclose >}}
 {{< tdopen >}}
 10%
