@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section outlines the recitation and pre-lab readings for each week
+  in the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -49,7 +51,7 @@ Hubel, D. H., and T. N. Wiesel. "[Receptive Fields of Single Neurones in the Cat
 
 \[O&S\] Chapter 2.6: "Preamplifier." pp. 29–33.
 
-[Digital oscilloscope handout (PDF)]({{< baseurl >}}/resources/mit9_17s13_osc_handout)
+{{% resource_link 8aea18e8-11e7-34a6-3fe6-8f68b71db803 "Digital oscilloscope handout (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -94,14 +96,14 @@ Ramos-Vara, J. A. "[Technical Aspects of Immunohistochemistry](http://dx.doi.org
 
 Rinberg, D., and H. Davidowitz. "[Do Cockroaches 'Know' About Fluid Dynamics?](http://dx.doi.org/10.1038/35015677)" _Nature_ 405, no. 6788 (2000): 756.
 
-[Recitation Questions for Rinberg and Davidowitz (PDF)]({{< baseurl >}}/resources/mit9_17s13_rec_4_ques)
+{{% resource_link 6de29917-70e6-50ac-9c3d-594d3db01d74 "Recitation Questions for Rinberg and Davidowitz (PDF)" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Hubel, David H. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Impulses, Synapses and Circuits." (PDF)](https://epdf.pub/eye-brain-and-vision.html) _Eye, Brain, and Vision_. W. H. Freeman, 1995, pp. 12–31. ISBN: 9780716760092. ([Online version](https://epdf.pub/eye-brain-and-vision.html))
+Hubel, David H. ["Impulses, Synapses and Circuits." (PDF)](https://epdf.pub/eye-brain-and-vision.html) _Eye, Brain, and Vision_. W. H. Freeman, 1995, pp. 12–31. ISBN: 9780716760092. ([Online version](https://epdf.pub/eye-brain-and-vision.html))
 
 Kolb, Bryan, and Ian Q. Whishaw. "How Do Neurons Convey Information?" Chapter 4 in _Introduction to Brain and Behavior_. Worth Publishers, 2000, pp 123–37. ISBN: 9780716751694.
 
