@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, primary course goals, expected of out-of-class work, grading,
+  registration, class structure, missed sessions, make-up policies, and late policies,
+  teaching assistants, recitation instructor, and lab supervisor, and a note on the
+  use of animals.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -18,15 +23,15 @@ Labs (Wet Lab): 1 session / week, 4 hours / session
 Contents
 --------
 
-*   [Course Description]({{< baseurl >}}/pages/syllabus#Course_Description)
-*   [Primary Course Goals]({{< baseurl >}}/pages/syllabus#Primary_Course_Goals)
-*   [Expected of Out-of-Class Work]({{< baseurl >}}/pages/syllabus#Expected_Out-of-Class_Work)
-*   [Grading]({{< baseurl >}}/pages/syllabus#Grading)
-*   [Registration]({{< baseurl >}}/pages/syllabus#Registration)
-*   [Class Structure]({{< baseurl >}}/pages/syllabus#Class_Structure)
-*   [Missed Sessions, Make-up Policies, and Late Policies]({{< baseurl >}}/pages/syllabus#Missed_Sessions__Make-up_Policies__and_Late_Policies)
-*   [Teaching Assistants, Recitation Instructor, and Lab Supervisor]({{< baseurl >}}/pages/syllabus#Teaching_Assistants__Recitation_Instructor__and_Lab_Supervisor)
-*   [Animal Use Notice]({{< baseurl >}}/pages/syllabus#Animal_Use_Notice)
+*   {{% resource_link 4459900e-2bfb-2760-6870-1d79b917ae31 "Course Description" "#Course_Description" %}}
+*   {{% resource_link 4459900e-2bfb-2760-6870-1d79b917ae31 "Primary Course Goals" "#Primary_Course_Goals" %}}
+*   {{% resource_link 4459900e-2bfb-2760-6870-1d79b917ae31 "Expected of Out-of-Class Work" "#Expected_Out-of-Class_Work" %}}
+*   {{% resource_link 4459900e-2bfb-2760-6870-1d79b917ae31 "Grading" "#Grading" %}}
+*   {{% resource_link 4459900e-2bfb-2760-6870-1d79b917ae31 "Registration" "#Registration" %}}
+*   {{% resource_link 4459900e-2bfb-2760-6870-1d79b917ae31 "Class Structure" "#Class_Structure" %}}
+*   {{% resource_link 4459900e-2bfb-2760-6870-1d79b917ae31 "Missed Sessions, Make-up Policies, and Late Policies" "#Missed_Sessions__Make-up_Policies__and_Late_Policies" %}}
+*   {{% resource_link 4459900e-2bfb-2760-6870-1d79b917ae31 "Teaching Assistants, Recitation Instructor, and Lab Supervisor" "#Teaching_Assistants__Recitation_Instructor__and_Lab_Supervisor" %}}
+*   {{% resource_link 4459900e-2bfb-2760-6870-1d79b917ae31 "Animal Use Notice" "#Animal_Use_Notice" %}}
 
 {{< anchor "Course_Description" >}}{{< /anchor >}}Course Description
 --------------------------------------------------------------------
@@ -138,7 +143,7 @@ You will learn how to write a short scientific paper. Because you will typically
 
 ### Final Letter Grade
 
-See the [grade worksheet (PDF)]({{< baseurl >}}/resources/mit9_17s13_finalgradework) for details on how the final grade is calculated.
+See the {{% resource_link ae109f0f-d232-47fb-ddd2-0a4974738e54 "grade worksheet (PDF)" %}} for details on how the final grade is calculated.
 
 The grade cut-offs for this course are:
 

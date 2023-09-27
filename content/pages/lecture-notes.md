@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides lecture slides that introduce the principles for
+  each week of the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ LECTURE SLIDES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Class Overview (PDF - 2.6MB)]({{< baseurl >}}/resources/mit9_17s13_lecture_1)
+{{% resource_link 98f0b47a-86f9-157a-4302-bbbfe827ca17 "Class Overview (PDF - 2.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -50,9 +52,9 @@ LECTURE SLIDES
 {{< tdopen >}}
 
 
-[Practical lecture part 1 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit9_17s13_lecture2_part1)
+{{% resource_link a6b1184e-bdca-acc2-1c90-56dc958ce2db "Practical lecture part 1 (PDF - 1.1MB)" %}}
 
-[Practical lecture part 2 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit9_17s13_lecture2_part2)
+{{% resource_link 244b073c-3108-c864-b407-350e0168326c "Practical lecture part 2 (PDF - 1.3MB)" %}}
 
 
 {{< tdclose >}}
@@ -69,7 +71,7 @@ LECTURE SLIDES
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Neurohistology (PDF - 2.7MB)]({{< baseurl >}}/resources/mit9_17s13_lecture_3)
+{{% resource_link 3097d932-017e-4860-0782-cf11995a9e42 "Neurohistology (PDF - 2.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +86,7 @@ LECTURE SLIDES
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Cockroach sensory processing (PDF)]({{< baseurl >}}/resources/mit9_17s13_lecture_4)
+{{% resource_link a4d37439-6e84-a6f6-a8df-2001baedf3e2 "Cockroach sensory processing (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +101,7 @@ LECTURE SLIDES
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Frog compound action potential (PDF - 1.6MB)]({{< baseurl >}}/resources/mit9_17s13_lecture_5)
+{{% resource_link 83e80ab7-cef5-0b36-3a33-8de531e18dd8 "Frog compound action potential (PDF - 1.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +116,7 @@ LECTURE SLIDES
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Rat barrel cortex: Principles of sensory processing (PDF - 1.2MB)]({{< baseurl >}}/resources/mit9_17s13_lecture_6)
+{{% resource_link a9cdf7b0-548a-aaea-181b-7b316cc631b1 "Rat barrel cortex: Principles of sensory processing (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,11 +133,11 @@ LECTURE SLIDES
 {{< tdopen >}}
 
 
-[Fly lab part 1 (PDF - 5.6MB)]({{< baseurl >}}/resources/mit9_17s13_flylabpart_1)
+{{% resource_link aeadf088-0b64-34d3-e73c-7db5130b8c05 "Fly lab part 1 (PDF - 5.6MB)" %}}
 
-[Fly lab part 2 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit9_17s13_flylabpart_2)
+{{% resource_link a0396644-3a54-122d-056a-2e730064ba61 "Fly lab part 2 (PDF - 1.2MB)" %}}
 
-[Fly lab part 3 (PDF - 2.6MB)]({{< baseurl >}}/resources/mit9_17s13_flylabpart_3)
+{{% resource_link 886f3108-a593-5d84-bd6b-f7da323db984 "Fly lab part 3 (PDF - 2.6MB)" %}}
 
 
 {{< tdclose >}}
