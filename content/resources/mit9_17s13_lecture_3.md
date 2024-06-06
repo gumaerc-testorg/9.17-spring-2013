@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding neurohistology.
 file: /courses/9-17-systems-neuroscience-lab-spring-2013/3097d932017e48600782cf11995a9e42_MIT9_17S13_Lecture_3.pdf
+file_size: 2827048
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

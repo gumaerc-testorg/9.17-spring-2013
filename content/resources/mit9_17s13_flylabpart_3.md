@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding fly lab part 3.
 file: /courses/9-17-systems-neuroscience-lab-spring-2013/886f3108a5935d84bd6bf7da323db984_MIT9_17S13_Flylabpart_3.pdf
+file_size: 2735263
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

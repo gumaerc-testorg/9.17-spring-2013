@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding practical lecture part 1.
 file: /courses/9-17-systems-neuroscience-lab-spring-2013/a6b1184ebdcaacc21c9056dc958ce2db_MIT9_17S13_Lecture2_part1.pdf
+file_size: 1146484
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
