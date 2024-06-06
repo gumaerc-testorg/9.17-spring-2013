@@ -139,7 +139,7 @@ Quizzes are not returned to students. Quiz answers are generally discussed immed
 
 ### Research Reports
 
-You will learn how to write a short scientific paper. Because you will typically work in teams of 2–3 in each lab, the data in each research report will often be identical. However, we expect each of you to write your own research report. Duplicate sentences or paragraphs in research reports are considered to be a form a plagiarism and, as MIT students, you already know that this is extremely unethical. If this, or any other form of plagiarism (e.g. sentences copied from references without citation) is apparent in your research report, the report will receive a grade of zero, and you may be referred to the MIT Committee on Discipline. Further information about plagiarism and its consequences can be found on {{% resource_link "a50435fe-e063-4d02-8d06-7cfbce7b3f47" "MIT's academic integrity website" %}}.
+You will learn how to write a short scientific paper. Because you will typically work in teams of 2–3 in each lab, the data in each research report will often be identical. However, we expect each of you to write your own research report. Duplicate sentences or paragraphs in research reports are considered to be a form a plagiarism and, as MIT students, you already know that this is extremely unethical. If this, or any other form of plagiarism (e.g. sentences copied from references without citation) is apparent in your research report, the report will receive a grade of zero, and you may be referred to the MIT Committee on Discipline. Further information about plagiarism and its consequences can be found on [MIT's academic integrity website](http://integrity.mit.edu/).
 
 ### Final Letter Grade
 
@@ -226,7 +226,7 @@ There are three TAs for the entire course plus a lab supervisor. At least one TA
 
 All research reports and projects should be turned into the lab supervisor, unless otherwise stated. We will provide more information about submissions later in this handbook. Please see the class site for TA and lab supervisor contact information and please feel free to ask them (and the instructors) for help.
 
-"MATLAB and Simulink are registered trademarks of The MathWorks, Inc. See {{% resource_link "9ffb6bf7-f353-4ea2-a8e6-819a3f6c1f28" "www.mathworks.com/trademarks" %}} for a list of additional trademarks. Other product or brand names may be trademarks or registered trademarks of their respective holders."
+"MATLAB and Simulink are registered trademarks of The MathWorks, Inc. See [www.mathworks.com/trademarks](http://www.mathworks.com/trademarks) for a list of additional trademarks. Other product or brand names may be trademarks or registered trademarks of their respective holders."
 
 {{< anchor "Animal_Use_Notice" >}}{{< /anchor >}}Animal Use Notice
 ------------------------------------------------------------------

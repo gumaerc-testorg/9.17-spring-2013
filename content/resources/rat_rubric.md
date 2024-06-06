@@ -2,6 +2,7 @@
 content_type: resource
 description: This is special file regarding rat rubric.
 file: /courses/9-17-systems-neuroscience-lab-spring-2013/30a410a3b9253e01d4e11073ca08834b_rat_rubric.xlsx
+file_size: 12983
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
 - Assignments

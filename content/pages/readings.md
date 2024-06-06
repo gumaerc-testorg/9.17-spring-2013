@@ -40,7 +40,7 @@ PRE-LAB READINGS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Hubel, D. H., and T. N. Wiesel. "{{% resource_link "fece450d-c489-4a0e-99f8-ecee8b0b165c" "Receptive Fields of Single Neurones in the Cat's Striate Cortex" %}}." _Journal of Physiology_ 148, no. 3 (1959): 574–91.
+Hubel, D. H., and T. N. Wiesel. "[Receptive Fields of Single Neurones in the Cat's Striate Cortex](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1363130/)." _Journal of Physiology_ 148, no. 3 (1959): 574–91.
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -73,9 +73,9 @@ Hubel, D. H., and T. N. Wiesel. "{{% resource_link "fece450d-c489-4a0e-99f8-ecee
 {{< tdopen >}}
 
 
-Diester, Ilka, Matthew T Kaufman, et al. "{{% resource_link "965c45df-b579-40f9-bc64-7936f96c3a90" "An Optogenetic Toolbox Designed for Primates" %}}." _Nature Neuroscience_ 14, no. 3 (2011): 387–97.
+Diester, Ilka, Matthew T Kaufman, et al. "[An Optogenetic Toolbox Designed for Primates](http://dx.doi.org/10.1038/nn.2749)." _Nature Neuroscience_ 14, no. 3 (2011): 387–97.
 
-Ramos-Vara, J. A. "{{% resource_link "5920a633-0596-4594-9803-b77fc676a206" "Technical Aspects of Immunohistochemistry" %}}." _Veterinary Pathology_ 42, no. 4 (2005): 405–26.
+Ramos-Vara, J. A. "[Technical Aspects of Immunohistochemistry](http://dx.doi.org/10.1354/vp.42-4-405)." _Veterinary Pathology_ 42, no. 4 (2005): 405–26.
 
 
 {{< tdclose >}}
@@ -94,7 +94,7 @@ Ramos-Vara, J. A. "{{% resource_link "5920a633-0596-4594-9803-b77fc676a206" "Tec
 {{< tdopen >}}
 
 
-Rinberg, D., and H. Davidowitz. "{{% resource_link "80fb1ff2-ddff-4a9d-b046-a1a1c94ac54c" "Do Cockroaches 'Know' About Fluid Dynamics?" %}}" _Nature_ 405, no. 6788 (2000): 756.
+Rinberg, D., and H. Davidowitz. "[Do Cockroaches 'Know' About Fluid Dynamics?](http://dx.doi.org/10.1038/35015677)" _Nature_ 405, no. 6788 (2000): 756.
 
 {{% resource_link 6de29917-70e6-50ac-9c3d-594d3db01d74 "Recitation Questions for Rinberg and Davidowitz (PDF)" %}}
 
@@ -103,7 +103,7 @@ Rinberg, D., and H. Davidowitz. "{{% resource_link "80fb1ff2-ddff-4a9d-b046-a1a1
 {{< tdopen >}}
 
 
-Hubel, David H. {{% resource_link "17be1c11-8f9f-425f-ab16-5bf0346b34cc" "\"Impulses, Synapses and Circuits.\" (PDF)" %}} _Eye, Brain, and Vision_. W. H. Freeman, 1995, pp. 12–31. ISBN: 9780716760092. ({{% resource_link "17be1c11-8f9f-425f-ab16-5bf0346b34cc" "Online version" %}})
+Hubel, David H. ["Impulses, Synapses and Circuits." (PDF)](https://epdf.pub/eye-brain-and-vision.html) _Eye, Brain, and Vision_. W. H. Freeman, 1995, pp. 12–31. ISBN: 9780716760092. ([Online version](https://epdf.pub/eye-brain-and-vision.html))
 
 Kolb, Bryan, and Ian Q. Whishaw. "How Do Neurons Convey Information?" Chapter 4 in _Introduction to Brain and Behavior_. Worth Publishers, 2000, pp 123–37. ISBN: 9780716751694.
 
@@ -122,7 +122,7 @@ Kolb, Bryan, and Ian Q. Whishaw. "How Do Neurons Convey Information?" Chapter 4 
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Thorpe, Simon, Denis Fize, et al. "{{% resource_link "aac62d8d-3677-4180-b53b-04c575f53df1" "Speed of Processing in the Human Visual System" %}}." _Nature_ 381, no. 6582 (1996): 520–2.
+Thorpe, Simon, Denis Fize, et al. "[Speed of Processing in the Human Visual System](http://dx.doi.org/10.1038/381520a0)." _Nature_ 381, no. 6582 (1996): 520–2.
 {{< tdclose >}}
 {{< tdopen >}}
 \[O&S\] Chapter 4.2: "Compound Action Potential: _Frog Sciatic Nerve_." pp. 85–96.
@@ -140,10 +140,10 @@ Thorpe, Simon, Denis Fize, et al. "{{% resource_link "aac62d8d-3677-4180-b53b-04
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Armstrong-James, Michael, and Kevin Fox. "{{% resource_link "c9286e7d-0cbe-4458-8e90-bd5478b5ff7a" "Spatiotemporal Convergence and Divergence in the Rat S1 'Barrel' Cortex" %}}." _The Journal of Comparative Neurology_ 263, no. 2 (1987): 265-81.
+Armstrong-James, Michael, and Kevin Fox. "[Spatiotemporal Convergence and Divergence in the Rat S1 'Barrel' Cortex](http://dx.doi.org/10.1002/cne.902630209)." _The Journal of Comparative Neurology_ 263, no. 2 (1987): 265-81.
 {{< tdclose >}}
 {{< tdopen >}}
-Andermann, Mark L., and Christopher I. Moore. "{{% resource_link "9eb5f580-6a4b-4e9b-8e59-3c0add72d7f3" "A Somatotopic Map of Vibrissa Motion Direction within a Barrel Column" %}}." _Nature Neuroscience_ 9, no. 4 (2006): 543–51.
+Andermann, Mark L., and Christopher I. Moore. "[A Somatotopic Map of Vibrissa Motion Direction within a Barrel Column](http://dx.doi.org/10.1038/nn1671)." _Nature Neuroscience_ 9, no. 4 (2006): 543–51.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,10 +152,10 @@ Andermann, Mark L., and Christopher I. Moore. "{{% resource_link "9eb5f580-6a4b-
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Andermann, Mark L., Jason Ritt, et al. "{{% resource_link "5a3ef13c-aa99-4a40-82a7-1b64831c5452" "Neural Correlates of Vibrissa Resonance: Band-Pass and Somatotopic Representation of High-Frequency Stimuli" %}}." _Neuron_ 42, no. 3 (2004): 451–63.
+Andermann, Mark L., Jason Ritt, et al. "[Neural Correlates of Vibrissa Resonance: Band-Pass and Somatotopic Representation of High-Frequency Stimuli](http://dx.doi.org/10.1016/S0896-6273(04)00198-9)." _Neuron_ 42, no. 3 (2004): 451–63.
 {{< tdclose >}}
 {{< tdopen >}}
-Research report reading: Gopen, George D., and Judith A. Swan. "{{% resource_link "cb895fc3-ecc5-459e-9b92-5a5127f164b7" "The Science of Scientific Writing" %}}." _American Scientist_ 78 (1990): 550–8.
+Research report reading: Gopen, George D., and Judith A. Swan. "[The Science of Scientific Writing](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing)." _American Scientist_ 78 (1990): 550–8.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -190,14 +190,14 @@ No readings assigned
 {{< tdopen >}}
 
 
-Maunsell, John H. R., and David C. Van Essen. "{{% resource_link "1ac90529-4096-4fc0-9f56-201cfb6cedac" "Functional Properties of Neurons in Middle Temporal Visual Area of the Macaque Monkey. I. Selectivity for Stimulus Direction, Speed, and Orientation" %}}." _Journal of Neurophysiology_ 9, no. 5 (1983): 1127–47.
+Maunsell, John H. R., and David C. Van Essen. "[Functional Properties of Neurons in Middle Temporal Visual Area of the Macaque Monkey. I. Selectivity for Stimulus Direction, Speed, and Orientation](http://www.ncbi.nlm.nih.gov/pubmed/6864242)." _Journal of Neurophysiology_ 9, no. 5 (1983): 1127–47.
 
-Britten, Kenneth H., Michael N. Shadlen, et al. "{{% resource_link "8c20821d-1b34-4193-bd44-1ff8ffbac73c" "The Analysis of Visual Motion: A Comparison of Neuronal and Psychophysical Performance" %}}." _The Journal of Neuroscience_ 12, no. 12 (1992): 4745–65.
+Britten, Kenneth H., Michael N. Shadlen, et al. "[The Analysis of Visual Motion: A Comparison of Neuronal and Psychophysical Performance](http://www.jneurosci.org/content/12/12/4745.short?sid=0322c71d-b8e8-4bb1-965b-bf276507340d)." _The Journal of Neuroscience_ 12, no. 12 (1992): 4745–65.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "c20701ae-0caf-4b03-81f4-54894d30eb8a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Dayan, Peter, and Laurence F. Abbott. "Neural Encoding I: Firing Rates and Spike Statistics." Chapter 1 in _Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems_. MIT Press, 2001, pp. 3–43. ISBN: 9780262041997.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262041997) Dayan, Peter, and Laurence F. Abbott. "Neural Encoding I: Firing Rates and Spike Statistics." Chapter 1 in _Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems_. MIT Press, 2001, pp. 3–43. ISBN: 9780262041997.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -208,9 +208,9 @@ Britten, Kenneth H., Michael N. Shadlen, et al. "{{% resource_link "8c20821d-1b3
 {{< tdopen >}}
 
 
-Linden, Monica L., Arnold J. Heynen, et al. "{{% resource_link "667fde6b-6d2a-441f-971e-269f435dad82" "Thalamic Activity that Drives Visual Cortical Plasticity" %}}." _Nature Neuroscience_ 12, no. 4 (2009): 390–92.
+Linden, Monica L., Arnold J. Heynen, et al. "[Thalamic Activity that Drives Visual Cortical Plasticity](http://dx.doi.org/10.1038/nn.2284)." _Nature Neuroscience_ 12, no. 4 (2009): 390–92.
 
-Also see the {{% resource_link "94de900a-c58a-494e-ab72-a45af6bc00c5" "supplementary information" %}} from Linden, et al.
+Also see the [supplementary information](http://www.nature.com/neuro/journal/v12/n4/suppinfo/nn.2284_S1.html) from Linden, et al.
 
 
 {{< tdclose >}}
@@ -226,9 +226,9 @@ Also see the {{% resource_link "94de900a-c58a-494e-ab72-a45af6bc00c5" "supplemen
 {{< tdopen >}}
 
 
-Borst, Alexander, and Martin Egelhaaf. "{{% resource_link "e64d2dc9-9201-4009-bd59-450ea8a805a9" "Principles of Visual Motion Detection" %}}." _Trends in Neuroscience_ 12, no. 8 (1989): 297–306.
+Borst, Alexander, and Martin Egelhaaf. "[Principles of Visual Motion Detection](http://dx.doi.org/10.1016/0166-2236(89)90010-6)." _Trends in Neuroscience_ 12, no. 8 (1989): 297–306.
 
-Egelhaaf, Martin, Roland Kern, et al. "{{% resource_link "5042f571-c34e-4719-95bf-09e4d326f35e" "Neural Encoding of Behaviourally Relevant Visual-Motion Information in the Fly" %}}." _Trends in Neurosciences_ 25, no. 2 (2002): 96–102.
+Egelhaaf, Martin, Roland Kern, et al. "[Neural Encoding of Behaviourally Relevant Visual-Motion Information in the Fly](http://dx.doi.org/10.1016/S0166-2236(02)02063-5)." _Trends in Neurosciences_ 25, no. 2 (2002): 96–102.
 
 
 {{< tdclose >}}
@@ -250,9 +250,9 @@ Egelhaaf, Martin, Roland Kern, et al. "{{% resource_link "5042f571-c34e-4719-95b
 {{< tdopen >}}
 
 
-Birbaumer, Niels, Ander Ramos Murguialday, et al. "{{% resource_link "7db0b83d-7897-43b5-81e0-779a169e9726" "Brain-Computer Interface in Paralysis" %}}." _Current Opinion in Neurology_ 21, no. 6 (2008): 634–8.
+Birbaumer, Niels, Ander Ramos Murguialday, et al. "[Brain-Computer Interface in Paralysis](http://www.ncbi.nlm.nih.gov/pubmed/18989104)." _Current Opinion in Neurology_ 21, no. 6 (2008): 634–8.
 
-Maguire, Eleanor A., David G. Gadian, et al. "{{% resource_link "00472175-3edc-428b-a8bd-c21e82254c26" "Navigation-Related Structural Change in the Hippocampi of Taxi Drivers" %}}." _Proceedings of the National Academy of Sciences of the United States of America_ 97, no. 8 (2000): 4398–403.
+Maguire, Eleanor A., David G. Gadian, et al. "[Navigation-Related Structural Change in the Hippocampi of Taxi Drivers](http://dx.doi.org/10.1073/pnas.070039597)." _Proceedings of the National Academy of Sciences of the United States of America_ 97, no. 8 (2000): 4398–403.
 
 
 {{< tdclose >}}
