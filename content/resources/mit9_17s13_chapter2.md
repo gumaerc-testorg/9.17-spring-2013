@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding practical skills.
 file: /courses/9-17-systems-neuroscience-lab-spring-2013/4acfa2cc676b0831a7905a2c12466332_MIT9_17S13_Chapter2.pdf
+file_size: 712752
 file_type: application/pdf
 learning_resource_types:
 - Labs

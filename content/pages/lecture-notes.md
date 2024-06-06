@@ -146,4 +146,4 @@ LECTURE SLIDES
 
 {{< tableclose >}}
 
-"MATLAB and Simulink are registered trademarks of The MathWorks, Inc. See {{% resource_link "9ffb6bf7-f353-4ea2-a8e6-819a3f6c1f28" "www.mathworks.com/trademarks" %}} for a list of additional trademarks. Other product or brand names may be trademarks or registered trademarks of their respective holders."
+"MATLAB and Simulink are registered trademarks of The MathWorks, Inc. See [www.mathworks.com/trademarks](http://www.mathworks.com/trademarks) for a list of additional trademarks. Other product or brand names may be trademarks or registered trademarks of their respective holders."
