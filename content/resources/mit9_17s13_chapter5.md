@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding the compound potential.
-file: /ol-ocw-studio-app/courses/9-17-systems-neuroscience-lab-spring-2013/ca3e727973211308bf414e655d3ad9f8_MIT9_17S13_Chapter5.pdf
+file: /courses/9-17-systems-neuroscience-lab-spring-2013/ca3e727973211308bf414e655d3ad9f8_MIT9_17S13_Chapter5.pdf
 file_size: 641404
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding introduction to neurophysiology.
-file: /ol-ocw-studio-app/courses/9-17-systems-neuroscience-lab-spring-2013/8a1c1bd9239f7c32675219fd54242095_MIT9_17S13_Chapter4.pdf
+file: /courses/9-17-systems-neuroscience-lab-spring-2013/8a1c1bd9239f7c32675219fd54242095_MIT9_17S13_Chapter4.pdf
 file_size: 179424
 file_type: application/pdf
 learning_resource_types:

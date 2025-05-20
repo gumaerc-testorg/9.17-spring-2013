@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding laboratory notebook.
-file: /ol-ocw-studio-app/courses/9-17-systems-neuroscience-lab-spring-2013/0f1bc770dec17ac080fa72ed86d639e1_MIT9_17S13_lab_notebook.pdf
+file: /courses/9-17-systems-neuroscience-lab-spring-2013/0f1bc770dec17ac080fa72ed86d639e1_MIT9_17S13_lab_notebook.pdf
 file_size: 142419
 file_type: application/pdf
 learning_resource_types:

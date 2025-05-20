@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding class overview.
-file: /ol-ocw-studio-app/courses/9-17-systems-neuroscience-lab-spring-2013/98f0b47a86f9157a4302bbbfe827ca17_MIT9_17S13_Lecture_1.pdf
+file: /courses/9-17-systems-neuroscience-lab-spring-2013/98f0b47a86f9157a4302bbbfe827ca17_MIT9_17S13_Lecture_1.pdf
 file_size: 2690854
 file_type: application/pdf
 learning_resource_types:
