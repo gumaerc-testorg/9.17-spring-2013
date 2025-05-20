@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding research report.
-file: /ol-ocw-studio-app/courses/9-17-systems-neuroscience-lab-spring-2013/4fa190be54b9880e7a18dce54e8b2d94_MIT9_17S13_research_rep.pdf
+file: /courses/9-17-systems-neuroscience-lab-spring-2013/4fa190be54b9880e7a18dce54e8b2d94_MIT9_17S13_research_rep.pdf
 file_size: 380331
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding fly lab part 2.
-file: /ol-ocw-studio-app/courses/9-17-systems-neuroscience-lab-spring-2013/a03966443a54122d056a2e730064ba61_MIT9_17S13_Flylabpart_2.pdf
+file: /courses/9-17-systems-neuroscience-lab-spring-2013/a03966443a54122d056a2e730064ba61_MIT9_17S13_Flylabpart_2.pdf
 file_size: 1227327
 file_type: application/pdf
 learning_resource_types:
