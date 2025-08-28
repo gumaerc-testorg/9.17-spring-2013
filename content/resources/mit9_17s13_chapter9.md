@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This file contains information regarding human anatomy and physiology.
-file: /courses/9-17-systems-neuroscience-lab-spring-2013/dd6828a0073d240fd3013d6c7435b29a_MIT9_17S13_Chapter9.pdf
+file: /ol-ocw-studio-app/courses/9-17-systems-neuroscience-lab-spring-2013/dd6828a0073d240fd3013d6c7435b29a_MIT9_17S13_Chapter9.pdf
 file_size: 741557
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
