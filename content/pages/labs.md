@@ -3,7 +3,7 @@ content_type: page
 description: This section includes the lab protocols for each week and a warning about
   potentially hazardous materials.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 03b56bac-d06a-8b3b-5053-a9ecf1f449f5

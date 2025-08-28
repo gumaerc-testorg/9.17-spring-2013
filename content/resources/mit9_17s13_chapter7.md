@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This file contains information regarding  matlab tutorials.
-file: /courses/9-17-systems-neuroscience-lab-spring-2013/67e49eadc1f32fc9c17a85fd42b7d287_MIT9_17S13_Chapter7.pdf
+file: /ol-ocw-studio-app/courses/9-17-systems-neuroscience-lab-spring-2013/67e49eadc1f32fc9c17a85fd42b7d287_MIT9_17S13_Chapter7.pdf
 file_size: 828804
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
