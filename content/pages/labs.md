@@ -131,4 +131,4 @@ MRI and electroencephalography
 
 {{< tableclose >}}
 
-"MATLAB and Simulink are registered trademarks of The MathWorks, Inc. See {{% resource_link "62fde3d5-f601-4ee4-8b5c-512c6c119d2b" "www.mathworks.com/trademarks" %}} for a list of additional trademarks. Other product or brand names may be trademarks or registered trademarks of their respective holders."
+"MATLAB and Simulink are registered trademarks of The MathWorks, Inc. See [www.mathworks.com/trademarks](http://www.mathworks.com/trademarks) for a list of additional trademarks. Other product or brand names may be trademarks or registered trademarks of their respective holders."
